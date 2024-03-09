@@ -1,0 +1,43 @@
+{
+    "arabica": [
+        {
+            "foto": "https://abeautifulmess.com/wp-content/uploads/2023/10/americano.jpg",
+            "nama": "Americano",
+            "size": "150 Ml",
+            "harga": "15.000",
+            "link": "https://www.tokopedia.com/search?st=&q=coffee%20americano&srp_component_id=02.01.00.00&srp_page_id=&srp_page_title=&navsource="
+        },
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino",
+            "size": "200 Ml",
+            "harga": "20.000",
+            "link": "https://www.tokopedia.com/search?st=&q=coffee%20cappucino&srp_component_id=02.01.00.00&srp_page_id=&srp_page_title=&navsource="
+        },
+        {
+            "foto": "https://spectrarestaurant.com/wp-content/uploads/2022/03/cafe-Latte.jpg",
+            "nama": "Cafe Latte",
+            "size": "200 Ml",
+            "harga": "23.000",
+            "link": "https://www.tokopedia.com/search?st=&q=coffee%20cafe%20latte&srp_component_id=02.01.00.00&srp_page_id=&srp_page_title=&navsource="
+        }
+    ],
+    "makanan": [
+        {
+            "foto": "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800",
+            "nama": "Kentang goreng",
+            "size": "100 Gram",
+            "harga": "15.000",
+            "link": "https://www.tokopedia.com/search?q=french%20fries&rf=true&srp_component_id=03.08.01.00"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://i.pinimg.com/736x/1e/de/79/1ede7905146acf2d9c976ead8b392371.jpg",
+            "nama": "Milkshake",
+            "size": "200 Ml",
+            "harga": "25.000",
+            "link": "hhttps://www.tokopedia.com/search?st=&q=milkshake&srp_component_id=02.01.00.00&srp_page_id=&srp_page_title=&navsource="
+        }
+    ]
+}
